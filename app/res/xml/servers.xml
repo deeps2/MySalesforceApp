@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><!-- created by me -->
+<servers>
+    <server
+        name="Production"
+        url="https://ceat--fullcopy.my.salesforce.com" />
+    <server
+        name="Sandbox"
+        url="https://ceat--fullcopy.my.salesforce.com" />
+</servers>
